@@ -1,4 +1,4 @@
-jekyll-verison-helper
+jekyll-version-helper
 =======================
 
 This gem lets you define variables within a *_config.yml* file and refer to it through the same file.
